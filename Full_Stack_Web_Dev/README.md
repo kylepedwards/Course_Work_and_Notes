@@ -1,3 +1,3 @@
-# Full Stack Web Development Bootcamp with MERN Stack Projects 
+# Full Stack Web Development Bootcamp
 
-Practice and projects from [Full Stack Web Development Bootcamp with MERN Stack Projects](https://www.udemy.com/course/full-stack-web-development-bootcamp-with-mern-stack-projects).
+Practice, projects, and notes from ['Become a Fullstack Developer from Scratch'](https://www.youtube.com/watch?v=LzMnsfqjzkA&t=0s).
