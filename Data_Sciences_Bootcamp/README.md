@@ -5,7 +5,6 @@ Notes, practice, and projects from various resources.
 ### <ins>Online Courses/Tutorials</ins>:
 * <ins>Data Sciences</ins>:
     * ['Data Analyst Bootcamp for Beginners' - freeCodeCamp](https://www.youtube.com/watch?v=PSNXoAs2FtQ)
-    * [Practical Data Science using Python](https://www.udemy.com/course/practical-data-science-using-python-md)
     * [Complete Data Science, Machine Learning, DL, NLP Bootcamp](https://www.udemy.com/course/complete-machine-learning-nlp-bootcamp-mlops-deployment)
     * [From Zero to Pro Data Science & AI Advanced Full Course](https://www.udemy.com/course/data-science-mastery-complete-data-science-bootcamp-2025)
     * [A deep understanding of deep learning (with Python intro)](https://www.udemy.com/course/deeplearning_x)
