@@ -9,7 +9,7 @@ def band_name_generator():
     location_input = input("Enter your home town: ")
     result = location_input + " " + pet_name_input
 
-    print(f"Your band's name is: {result}\n")
+    print(f"Your band name is: {result}\n")
 
 
 band_name_generator()
